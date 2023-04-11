@@ -1,1 +1,2 @@
 newtxt
+console.log
